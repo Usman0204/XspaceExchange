@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.rougecoin.xyz/',
+    href: 'https://xspacedog.com/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://farms.rougeswap.com/pools',
+    href: '',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pools.rougeswap.com/pools',
+    href: '',
   },
   // {
   //   label: 'Lottery',
