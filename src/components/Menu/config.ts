@@ -94,15 +94,15 @@ const config: MenuEntry[] = [
 
       {
         label: 'Github',
-        href: 'https://github.com/rougecoin-project/RougeCoin',
+        href: 'https://github.com/XSpaceDogDev',
       },
       {
         label: 'Docs',
-        href: 'https://rougecoin-blockchain.medium.com/',
+        href: 'https://medium.com/@xspacedogofficial',
       },
       {
         label: 'Blog',
-        href: 'https://rougecoin-blockchain.medium.com/',
+        href: 'https://medium.com/@xspacedogofficial',
       },
     ],
   },
