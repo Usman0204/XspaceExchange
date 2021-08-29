@@ -19,6 +19,13 @@
       "logoURI": "/images/coins/BUSD.png"
     },
     {
+      "name": "Xspacedog",
+      "symbol": "XSD",
+      "address": "0x5e864105C505e1B2f23d8326473Ca1a2b456e1cE",
+      "chainId": 56,
+      "decimals": 9
+    },
+    {
       "name": "WBNB Token",
       "symbol": "WBNB",
       "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
