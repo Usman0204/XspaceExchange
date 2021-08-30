@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: '',
+    href: 'https://xspacedog.finance/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: '',
+    href: 'https://xspacedog.finance/pools',
   },
   // {
   //   label: 'Lottery',
